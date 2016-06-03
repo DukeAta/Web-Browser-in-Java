@@ -1,0 +1,14 @@
+To start the browser, run the main() method on the Test class
+An html page should load automatically. In this case the homepage is http://www.ncl.ac.uk.
+To go to a random next page, you can:
+	•  Click on any hyperlink on the web page. The web page should be loaded automatically.
+	•  Type the address in the text field bar and press the key “ENTER” or “RETURN”.
+	•  Type the address in the text field and click on the GO button.
+To set a new page as homepage, you should click on “File”, located at the tab menu then select “Set homepage”.
+To go to the homepage, you can click the homepage icon. This should fetch and load the homepage
+To refresh a page, you can click on the reload icon. This should fetch and refresh the current page.
+To go back or forward, you can either click on the back icon to go to the previous page or on the forward icon to go to the next page 
+To get the source code of the current page, you can select “Page Source” on the file’s menu. It will be display on the terminal window.
+To bookmark a page, select “Add Bookmark” on the bookmark menu, and to display a bookmarked page, selects the address of that page on the bookmark menu.
+To show the history, select “Display History” on the history menu it will be display on the terminal window, and to clear the history select “Delete History”.
+To display the help, select “Help” on the help menu it will be show on the terminal window, and to display info about the designer, select “About” on the help menu.
